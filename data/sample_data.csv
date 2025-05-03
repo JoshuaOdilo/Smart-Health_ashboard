@@ -1,0 +1,7 @@
+age,heart_rate,blood_pressure,cholesterol,outcome
+25,72,120,180,Healthy
+45,90,150,220,At Risk
+32,65,110,170,Healthy
+60,100,160,250,At Risk
+29,80,130,190,Healthy
+70,95,170,270,At Risk
